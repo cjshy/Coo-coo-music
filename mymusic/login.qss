@@ -1,0 +1,41 @@
+QLineEdit {
+    border: none;
+    border-bottom: 2px solid rgb(186, 186, 186);
+    padding: 0 8px;
+    background-color: transparent; /* 设置背景为透明 */
+    selection-background-color: darkgray;
+}
+
+QLineEdit:focus {
+    border-bottom: 2px solid rgb(0, 170, 255);
+}
+
+#pushButton{
+background-color: rgb(99, 188, 255);
+color: rgb(255, 255, 255);
+border-radius: 5px;
+font-size:14px;
+}
+#pushButton:hover{
+background-color: rgb(99, 170, 255);
+color: rgb(255, 255, 255);
+border-radius: 5px;
+
+}
+#pushButton:pressed{
+background-color: rgb(99, 188, 255);
+color: rgb(255, 255, 255);
+border-radius: 5px;
+padding-left:2px;
+padding-top:2px;
+}
+#pushButton_2{
+color: rgb(149, 149, 149);
+}
+#pushButton_2:hover{
+color: rgb(120, 120, 120);
+}
+
+
+
+

@@ -1,0 +1,40 @@
+/* QLineEdit 样式 */
+QLineEdit {
+    border: 2px solid #DCDFE6; /* 边框颜色 */
+    border-radius: 6px; /* 圆角 */
+    padding: 8px 12px; /* 内边距 */
+    background: qlineargradient(x1: 0, y1: 0, x2: 0, y2: 1, stop: 0 #FFFFFF, stop: 1 #F5F7FA); /* 渐变背景 */
+    selection-background-color: #B2D8FF; /* 选中背景颜色 */
+    font-size: 14px; /* 字体大小 */
+    color: #333333; /* 字体颜色 */
+
+}
+
+QLineEdit:focus {
+    border: 2px solid #409EFF; /* 焦点状态下的边框颜色 */
+
+}
+
+/* QPushButton 样式 */
+QPushButton {
+    border: 2px solid #409EFF; /* 边框颜色 */
+    border-radius: 6px; /* 圆角 */
+}
+
+QPushButton:hover {
+    background: qlineargradient(x1: 0, y1: 0, x2: 0, y2: 1, stop: 0 #409EFF, stop: 1 #66B3FF); /* 悬停时的渐变背景 */
+}
+
+QPushButton:pressed {
+    background: qlineargradient(x1: 0, y1: 0, x2: 0, y2: 1, stop: 0 #3A8EE6, stop: 1 #409EFF); /* 按下时的渐变背景 */
+
+}
+
+/* QWidget 样式 */
+#widget_5 {
+    border: 2px solid #DCDFE6; /* 边框颜色 */
+    background: #FFFFFF; /* 背景颜色 */
+    border-radius: 15px; /* 圆角 */
+    padding: 20px; /* 内边距 */
+
+}

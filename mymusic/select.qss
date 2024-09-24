@@ -1,0 +1,19 @@
+QListView {
+                   background-color: #f5f5f5;
+                   border: 1px solid #ddd;
+                   border-radius: 20px;
+                    padding: 5px;
+                    outline: none;
+                }
+QListView::item {
+                   padding: 10px;
+                    border-bottom: none;
+                }
+QListView::item:selected {
+                            background-color: rgb(255, 0, 0);
+                            color: white;
+                            border-radius: 15px;
+                            padding-left: 20px;
+                            padding-right: 20px;
+                            outline: none;
+                        }

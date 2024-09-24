@@ -1,0 +1,52 @@
+<RCC>
+    <qresource prefix="/">
+        <file>tu/audio.png</file>
+        <file>tu/b1.png</file>
+        <file>tu/b2.png</file>
+        <file>tu/background.png</file>
+        <file>tu/contact.png</file>
+        <file>tu/login_Password.png</file>
+        <file>tu/login_User.png</file>
+        <file>tu/OIP-C (3).jfif</file>
+        <file>tu/OIP-C (4).jfif</file>
+        <file>tu/xia.png</file>
+        <file>tu/zcback.jfif</file>
+        <file>tu/zhu.png</file>
+        <file>tu/zuo.png</file>
+        <file>tu/爱心 (1).png</file>
+        <file>tu/爱心.png</file>
+        <file>tu/单曲循环.png</file>
+        <file>tu/关闭.png</file>
+        <file>tu/开始-红色.png</file>
+        <file>tu/上一首 上一个.png</file>
+        <file>tu/刷新.png</file>
+        <file>tu/顺序播放.png</file>
+        <file>tu/搜索.png</file>
+        <file>tu/随机播放.png</file>
+        <file>tu/下一个 下一首.png</file>
+        <file>tu/循环播放.png</file>
+        <file>tu/音乐 (1).png</file>
+        <file>tu/音量.png</file>
+        <file>tu/暂停-红色.png</file>
+        <file>tu/最大化.png</file>
+        <file>tu/最小化.png</file>
+        <file>music.qss</file>
+        <file>tu/back.jpg</file>
+        <file>tu/back2.jpg</file>
+        <file>tu/R-C.jfif</file>
+        <file>tu/zw.png</file>
+        <file>login.qss</file>
+        <file>tu/皮肤.png</file>
+        <file>zhuche.qss</file>
+        <file>tu/backg.gif</file>
+        <file>tu/233键盘-线性.png</file>
+        <file>tu/上拉箭头.png</file>
+        <file>tu/下拉箭头.png</file>
+        <file>tu/login_background.png</file>
+        <file>tu/jietou1.png</file>
+        <file>tu/delete.png</file>
+        <file>tu/delete2.png</file>
+        <file>tu/播放列表.png</file>
+        <file>tu/清空.png</file>
+    </qresource>
+</RCC>
